@@ -1,9 +1,9 @@
 {
-  "versionCode": 269,
-  "versionName": "1.8.89",
-  "apk": "https://github.com/weaman10/np-iptv-releases/releases/download/v1.8.89/np-iptv-1.8.89.apk",
-  "sha256": "6bc99861fbf0305af6956c37ddcd4a760f92b83fb1b2b9eb2f250d4919d79026",
-  "size": 1346216,
-  "notes": "Overlay, bakat till kanalen, gruppfilter, manuell lank",
+  "versionCode": 270,
+  "versionName": "1.8.90",
+  "apk": "https://github.com/weaman10/np-iptv-releases/releases/download/v1.8.90/np-iptv-1.8.90.apk",
+  "sha256": "4d116f81d5f0ebf6ee0e40792af30664d91b1f460db5e2dff5a28cea3e8f6b13",
+  "size": 1351430,
+  "notes": "Fokus/D-pad-revision: navigering, overlay, dialoger, sasongsbyte",
   "mandatory": false
 }
