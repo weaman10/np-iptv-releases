@@ -1,9 +1,9 @@
 {
-  "versionCode": 267,
-  "versionName": "1.8.87",
-  "apk": "https://github.com/weaman10/np-iptv-releases/releases/download/v1.8.87/np-iptv-1.8.87.apk",
-  "sha256": "3b48813944c0f630a28e22d948c243b655e877bf75ed2d8d41e394c4f82c5dd7",
-  "size": 1342615,
-  "notes": "Manifest via API, robust publicering",
+  "versionCode": 268,
+  "versionName": "1.8.88",
+  "apk": "https://github.com/weaman10/np-iptv-releases/releases/download/v1.8.88/np-iptv-1.8.88.apk",
+  "sha256": "cdeb8ad7fd3b4869fcbac6e543c9ce6ce0cfe65bb3136d4802e97cd8673733a7",
+  "size": 1342955,
+  "notes": "Trasiga kanaler bort ur Sport guide",
   "mandatory": false
 }
