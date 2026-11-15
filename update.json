@@ -1,9 +1,9 @@
 {
-  "versionCode": 266,
-  "versionName": "1.8.86",
-  "apk": "https://github.com/weaman10/np-iptv-releases/releases/download/v1.8.86/np-iptv-1.8.86.apk",
-  "sha256": "99bca99d7d9b4641bff015d1d223cbb4d0c913d177a75e71cf5ffdbf3f0458a3",
-  "size": 1342484,
-  "notes": "Uppdatering i appen: Sök uppdatering i Inställningar",
+  "versionCode": 267,
+  "versionName": "1.8.87",
+  "apk": "https://github.com/weaman10/np-iptv-releases/releases/download/v1.8.87/np-iptv-1.8.87.apk",
+  "sha256": "3b48813944c0f630a28e22d948c243b655e877bf75ed2d8d41e394c4f82c5dd7",
+  "size": 1342615,
+  "notes": "Manifest via API, robust publicering",
   "mandatory": false
 }
