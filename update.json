@@ -1,9 +1,9 @@
 {
-  "versionCode": 265,
-  "versionName": "1.8.85",
-  "apk": "https://github.com/weaman10/np-iptv-releases/releases/download/v1.8.85/np-iptv-1.8.85.apk",
-  "sha256": "26591901b91559f98657aa4e92415f2a7e2e2cf6131b0d9984ff4993ae299f65",
-  "size": 1333779,
-  "notes": "M3U-källan till SQLite, konstant minne",
+  "versionCode": 266,
+  "versionName": "1.8.86",
+  "apk": "https://github.com/weaman10/np-iptv-releases/releases/download/v1.8.86/np-iptv-1.8.86.apk",
+  "sha256": "99bca99d7d9b4641bff015d1d223cbb4d0c913d177a75e71cf5ffdbf3f0458a3",
+  "size": 1342484,
+  "notes": "Uppdatering i appen: Sök uppdatering i Inställningar",
   "mandatory": false
 }
