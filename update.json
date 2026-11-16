@@ -1,9 +1,9 @@
 {
-  "versionCode": 272,
-  "versionName": "1.8.92",
-  "apk": "https://github.com/weaman10/np-iptv-releases/releases/download/v1.8.92/np-iptv-1.8.92.apk",
-  "sha256": "7405a56acb600161dacbbda3b02fb8594633a47af4d9c9029d426b67e0113383",
-  "size": 1360080,
-  "notes": "Vad är nytt i 1.8.92\n\n- Sökningen söker nu i ALLT, även grupper du filtrerat bort\n- Ny sök i Filmer och Serier, med gruppfilter i sökningen\n- Välj grupper manuellt i Filmer/Serier – valet vinner över textfiltret\n- Sportguiden kopplar inte längre fel kanaler på tid/liganamn\n- Träffar hittas även mitt i ord (t.ex. sport → Eurosport)",
+  "versionCode": 273,
+  "versionName": "1.8.93",
+  "apk": "https://github.com/weaman10/np-iptv-releases/releases/download/v1.8.93/np-iptv-1.8.93.apk",
+  "sha256": "c2509edb6bdde379ddd22526d0d5531a1af3a9235826cc08af85512e4e359a45",
+  "size": 1366547,
+  "notes": "Vad är nytt i 1.8.93\n\n- Sökningen är nu 3–50× snabbare och visar hur många poster den gått igenom\n- Sökfältet ligger alltid synligt i Filmer och Serier, med gruppfilter i sökningen\n- Bredare kategorikolumn och fler filmer/serier synliga per rad\n- Helskärmspanel när du väljer en film/serie: avsnitt, handling, medverkande och trailer\n- BAKÅT stänger panelen och tar dig tillbaka till filmen/serien du stod på",
   "mandatory": false
 }
