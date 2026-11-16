@@ -1,9 +1,9 @@
 {
-  "versionCode": 271,
-  "versionName": "1.8.91",
-  "apk": "https://github.com/weaman10/np-iptv-releases/releases/download/v1.8.91/np-iptv-1.8.91.apk",
-  "sha256": "a301983599645de0d7e392389772b07bd434b2712c89dffb4e0a3912cc9d51a7",
-  "size": 1352364,
-  "notes": "Vad ar nytt i 1.8.91\n\n- Ny ruta som visar vad som ar nytt en gang efter uppdateringen\n- Beskrivningen sparas och kan lasas om under Installningar > Om > Vad ar nytt\n- natfel ger inga felrutor, nasta start forsoker igen",
+  "versionCode": 272,
+  "versionName": "1.8.92",
+  "apk": "https://github.com/weaman10/np-iptv-releases/releases/download/v1.8.92/np-iptv-1.8.92.apk",
+  "sha256": "7405a56acb600161dacbbda3b02fb8594633a47af4d9c9029d426b67e0113383",
+  "size": 1360080,
+  "notes": "Vad ar nytt i 1.8.92\n\n- Sokningen soker nu i ALLT, aven grupper du filtrerat bort\n- Ny sok i Filmer och Serier, med gruppfilter i sokningen\n- Valj grupper manuellt i Filmer/Serier - valet vinner over textfiltret\n- Sportguiden kopplar inte langre fel kanaler pa tid/liganamn\n- Traffar hittas aven mitt i ord (t.ex. sport -> Eurosport)",
   "mandatory": false
 }
