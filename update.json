@@ -1,9 +1,9 @@
 {
-  "versionCode": 270,
-  "versionName": "1.8.90",
-  "apk": "https://github.com/weaman10/np-iptv-releases/releases/download/v1.8.90/np-iptv-1.8.90.apk",
-  "sha256": "4d116f81d5f0ebf6ee0e40792af30664d91b1f460db5e2dff5a28cea3e8f6b13",
-  "size": 1351430,
-  "notes": "Fokus/D-pad-revision: navigering, overlay, dialoger, sasongsbyte",
+  "versionCode": 271,
+  "versionName": "1.8.91",
+  "apk": "https://github.com/weaman10/np-iptv-releases/releases/download/v1.8.91/np-iptv-1.8.91.apk",
+  "sha256": "a301983599645de0d7e392389772b07bd434b2712c89dffb4e0a3912cc9d51a7",
+  "size": 1352364,
+  "notes": "Vad ar nytt i 1.8.91\n\n- Ny ruta som visar vad som ar nytt en gang efter uppdateringen\n- Beskrivningen sparas och kan lasas om under Installningar > Om > Vad ar nytt\n- natfel ger inga felrutor, nasta start forsoker igen",
   "mandatory": false
 }
