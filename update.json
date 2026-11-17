@@ -1,9 +1,9 @@
 {
-  "versionCode": 273,
-  "versionName": "1.8.93",
-  "apk": "https://github.com/weaman10/np-iptv-releases/releases/download/v1.8.93/np-iptv-1.8.93.apk",
-  "sha256": "c2509edb6bdde379ddd22526d0d5531a1af3a9235826cc08af85512e4e359a45",
-  "size": 1366547,
-  "notes": "Vad är nytt i 1.8.93\n\n- Sökningen är nu 3–50× snabbare och visar hur många poster den gått igenom\n- Sökfältet ligger alltid synligt i Filmer och Serier, med gruppfilter i sökningen\n- Bredare kategorikolumn och fler filmer/serier synliga per rad\n- Helskärmspanel när du väljer en film/serie: avsnitt, handling, medverkande och trailer\n- BAKÅT stänger panelen och tar dig tillbaka till filmen/serien du stod på",
+  "versionCode": 274,
+  "versionName": "1.8.94",
+  "apk": "https://github.com/weaman10/np-iptv-releases/releases/download/v1.8.94/np-iptv-1.8.94.apk",
+  "sha256": "4b23f3a72b494f348ffc072042abf8a1a91fc46a9ec2f6830063201870d2a4f8",
+  "size": 1369722,
+  "notes": "Vad är nytt i 1.8.94\n\n- Sökningen kan inte längre fastna på \"Söker…\" (drabbade nya Xtream-profiler, t.ex. på telefon)\n- Tydlig status: \"Katalogen laddas\", \"Import misslyckades\" eller \"Tom katalog\" i stället för evig snurra\n- Sökningen görs om automatiskt när katalogen är klar\n- Egen trådpool för sökning, så import och sidladdning inte blockeras",
   "mandatory": false
 }
