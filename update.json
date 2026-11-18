@@ -1,9 +1,9 @@
 {
-  "versionCode": 275,
-  "versionName": "1.8.95",
-  "apk": "https://github.com/weaman10/np-iptv-releases/releases/download/v1.8.95/np-iptv-1.8.95.apk",
-  "sha256": "6692c8df6db5c47a2c01f822921dad1786cba2bcd52e640608631cd4d5ecb054",
-  "size": 1370414,
-  "notes": "Vad är nytt i 1.8.95\n\n- Trailerknappen finns nu alltid i filmpanelen, även när leverantören saknar trailer (då öppnas en YouTube-sökning)\n- Serier har fått en egen Trailer-knapp i panelen, bredvid favoriten\n- Trailern läses nu även från fälten trailer och youtube, inte bara youtube_trailer",
+  "versionCode": 276,
+  "versionName": "1.8.96",
+  "apk": "https://github.com/weaman10/np-iptv-releases/releases/download/v1.8.96/np-iptv-1.8.96.apk",
+  "sha256": "ec303afbc4590cbddcdfbf505ca835d88ddb70a27e9e222fa26ca434466e04df",
+  "size": 1371226,
+  "notes": "Vad är nytt i 1.8.96\n\n- Buffertstorleken kan nu väljas i sex steg: 15 s, 30 s, 1 min, 2 min, 5 min och 10 min (standard 30 s)\n- Pausa filmen och bufferten fortsätter fyllas – statusraden visar \"pausad · buffrar 1:20 / 5:00\"\n- Statistikraden visar både buffrad tid och taket: \"Buffert 1:20 / 5:00\"\n- Minnesgränsen är anpassad efter TV:ns heap (max 128 MB), så appen inte får slut på minne\n- Lilla spelaren (MiniPlayer) följer samma buffertval",
   "mandatory": false
 }
