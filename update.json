@@ -1,9 +1,9 @@
 {
-  "versionCode": 276,
-  "versionName": "1.8.96",
-  "apk": "https://github.com/weaman10/np-iptv-releases/releases/download/v1.8.96/np-iptv-1.8.96.apk",
-  "sha256": "ec303afbc4590cbddcdfbf505ca835d88ddb70a27e9e222fa26ca434466e04df",
-  "size": 1371226,
-  "notes": "Vad är nytt i 1.8.96\n\n- Buffertstorleken kan nu väljas i sex steg: 15 s, 30 s, 1 min, 2 min, 5 min och 10 min (standard 30 s)\n- Pausa filmen och bufferten fortsätter fyllas – statusraden visar \"pausad · buffrar 1:20 / 5:00\"\n- Statistikraden visar både buffrad tid och taket: \"Buffert 1:20 / 5:00\"\n- Minnesgränsen är anpassad efter TV:ns heap (max 128 MB), så appen inte får slut på minne\n- Lilla spelaren (MiniPlayer) följer samma buffertval",
+  "versionCode": 277,
+  "versionName": "1.8.97",
+  "apk": "https://github.com/weaman10/np-iptv-releases/releases/download/v1.8.97/np-iptv-1.8.97.apk",
+  "sha256": "4234e39bd99967071796df98f00d76e3339e2f859125b1623937a0c0be7d4ae2",
+  "size": 1391747,
+  "notes": "Vad är nytt i 1.8.97\n\n- Diskcache: filmer och serier buffras nu även till disk (512 MB–4 GB att välja på), så långa 4K-filmer kan buffra längre än TV:ns minne tillåter\n- Pausa filmen och bufferten fortsätter laddas ner till disk – statusraden visar \"pausad · buffrar på disk 1:20 / 2:00\"\n- Statistikraden visar både minne och disk: \"Buffert 0:42 / 2:00 + 1:20 (disk)\"\n- När du lämnar en film eller ett avsnitt rensas det som buffrats för just den titeln\n- Live-TV visar bufferten i sekunder igen (\"Buffert 1,4 s\") i stället för 0:00 / 0:30\n- Fortsätt titta på Hem: mindre kort med filmposter, och bilderna visas nu även för äldre poster\n- Inställningar → Uppspelning: välj diskcache-storlek. Inställningar → Data: Töm diskcache",
   "mandatory": false
 }
