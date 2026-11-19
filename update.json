@@ -1,9 +1,9 @@
 {
-  "versionCode": 278,
-  "versionName": "1.8.98",
-  "apk": "https://github.com/weaman10/np-iptv-releases/releases/download/v1.8.98/np-iptv-1.8.98.apk",
-  "sha256": "78ddbe232abf57161cc961759b7fa61b6e28d0ed4e843d66785d4991e443765a",
-  "size": 1393269,
-  "notes": "Vad är nytt i 1.8.98\n\n- Live-TV återansluter nu själv om bilden stannar: efter ett automatiskt hostbyte, om strömmen tar slut eller om den fastnar i buffring – ingen fryst ruta kvar som kräver att du trycker Spela\n- Statusraden visar \"Direktsändning · ansluter…\" medan den kopplar upp igen\n- Först provas samma adress två gånger, därefter nästa host; går det inte visas ett tydligt fel i stället för en stillbild\n- Pausknappen fungerar även medan kanalen buffrar eller ansluter\n- Återanslutningen sker bara när du vill spela och aldrig i bakgrunden eller när ett samtal/ljudfokus pausat TV:n",
+  "versionCode": 279,
+  "versionName": "1.8.99",
+  "apk": "https://github.com/weaman10/np-iptv-releases/releases/download/v1.8.99/np-iptv-1.8.99.apk",
+  "sha256": "28710887f6d18c56c422bf841d951502db1ef2e32bbdffa24f4537af20b7ee92",
+  "size": 1395035,
+  "notes": "1.8.99 – mjuk övergång mellan RAM, disk och nät efter paus\nSpelaren håller inte längre nätanslutningen och cachelåset öppna under pausen. Källan stängs när du pausar och öppnas igen på exakt samma byte-position när du trycker Spela, så bilden hänger inte på en död anslutning.\nFörbuffringen börjar nu precis där RAM-bufferten slutar i stället för att hoppa tillbaka, och den avbryts direkt om du stänger spelaren.\nBara spelarens datalager ändrat – inga nya behörigheter.",
   "mandatory": false
 }
