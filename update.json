@@ -1,9 +1,9 @@
 {
-  "versionCode": 279,
-  "versionName": "1.8.99",
-  "apk": "https://github.com/weaman10/np-iptv-releases/releases/download/v1.8.99/np-iptv-1.8.99.apk",
-  "sha256": "28710887f6d18c56c422bf841d951502db1ef2e32bbdffa24f4537af20b7ee92",
-  "size": 1395035,
-  "notes": "1.8.99 – mjuk övergång mellan RAM, disk och nät efter paus\nSpelaren håller inte längre nätanslutningen och cachelåset öppna under pausen. Källan stängs när du pausar och öppnas igen på exakt samma byte-position när du trycker Spela, så bilden hänger inte på en död anslutning.\nFörbuffringen börjar nu precis där RAM-bufferten slutar i stället för att hoppa tillbaka, och den avbryts direkt om du stänger spelaren.\nBara spelarens datalager ändrat – inga nya behörigheter.",
+  "versionCode": 280,
+  "versionName": "1.9.0",
+  "apk": "https://github.com/weaman10/np-iptv-releases/releases/download/v1.9.0/np-iptv-1.9.0.apk",
+  "sha256": "1252876626c124a29529046f46695bbc8a52d21084ed446d850068d7c08f7c03",
+  "size": 1396213,
+  "notes": "Vad är nytt i 1.9.0\n\n- Lång förbuffring till disk fungerar nu även mot servrar som bara tillåter en anslutning: appen försöker igen i stället för att ge upp.\n- En full diskcache med gamla filmer begränsar inte längre förbuffringen.\n- Övergången från disk tillbaka till nätet tål att servern tillfälligt säger nej, utan att filmen startas om.\n- Statistiken visar hur mycket som faktiskt ligger på disk framför spelpositionen.",
   "mandatory": false
 }
